@@ -21,7 +21,8 @@ The model roughly has an architecture of `Encoder--Decoder--Classifier`. Compare
 ## Usage ##
 
 ### Dataset ###
-Download the yelp sentiment dataset with the following cmd:
+I already commit the data in the right format to make you gain time. 
+But if you haven't downloaded the repo you can with the following cmd:
 ```
 python prepare_data.py
 ```
