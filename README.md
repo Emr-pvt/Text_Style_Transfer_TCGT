@@ -1,3 +1,10 @@
+Python versions : 
+
+```
+TensorFlow : 1.15.0
+Python : 3.7.9
+```
+
 # Text Style Transfer #
 
 This example implements a simplified variant of the `ctrl-gen` model from 
